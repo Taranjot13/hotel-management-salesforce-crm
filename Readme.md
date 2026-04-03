@@ -166,8 +166,8 @@ This system simulates a real-world hotel CRM used to:
 ## 👨‍💻 Author
 
 **Taranjot Singh**  
-🔗 GitHub: https://github.com/Taranjot13  
-🔗 LinkedIn: (Add your LinkedIn link)
+🔗 GitHub: (https://github.com/Taranjot13)  
+🔗 LinkedIn: (https://www.linkedin.com/in/taranjot13/)
 
 ---
 
