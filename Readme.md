@@ -92,27 +92,51 @@ Service Requests
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/Dashboar Tab.png)
+## 📸 Screenshots
 
-### Reservations
-![Reservations](screenshots/Reservations Tab.png)
+### 🏠 Dashboard
+![Dashboard](screenshots/Dashboar-Tab.png)
 
-### Rooms
-![Rooms](screenshots/Rooms Tab.png)
+### 🏨 Hotels Tab
+![Hotels](screenshots/Hotels-Tab.png)
 
-### Hotels
-![Hotels](screenshots/Hotels Tab.png)
+### 🛏️ Rooms Tab
+![Rooms](screenshots/Rooms-Tab.png)
 
-### Payments
-![Payments](screenshots/Payments Tab.png)
+### 📅 Reservations Tab
+![Reservations](screenshots/Reservations-Tab.png)
 
-### Service Requests
-![Service Requests](screenshots/Service request Tab.png)
+### 💳 Payments Tab
+![Payments](screenshots/Payments-Tab.png)
 
-### Create Reservation
-![New Reservation](screenshots/New Reservation.png)
+### 🛎️ Service Requests Tab
+![Service Requests](screenshots/Service-request-Tab.png)
 
+### 📊 Reports Tab
+![Reports](screenshots/Reports-Tab.png)
+
+### 👤 Contacts Tab
+![Contacts](screenshots/Contacts-Tab.png)
+
+---
+
+### ➕ Create New Reservation
+![New Reservation](screenshots/New-Reservation.png)
+
+### ➕ Create New Room
+![New Room](screenshots/New-room.png)
+
+### ➕ Create New Hotel
+![New Hotel](screenshots/New-hotel.png)
+
+### ➕ Create New Payment
+![New Payment](screenshots/New-payment.png)
+
+### ➕ Create New Contact
+![New Contact](screenshots/New-contact.png)
+
+### ➕ Create Service Request
+![New Service Request](screenshots/New-service-request.png)
 ---
 
 ## 📄 Project Report
