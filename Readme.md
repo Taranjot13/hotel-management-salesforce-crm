@@ -90,7 +90,6 @@ Service Requests
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
